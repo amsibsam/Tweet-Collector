@@ -1,0 +1,6 @@
+framework module Pods_Tweet_ScrapperTests {
+  umbrella header "Pods-Tweet ScrapperTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
